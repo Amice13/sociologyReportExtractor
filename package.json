@@ -1,0 +1,25 @@
+{
+  "name": "sociologyreportextractor",
+  "version": "1.0.0",
+  "description": "A script to extract all relevant information about sociological surveys from media articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amice13/sociologyReportExtractor.git"
+  },
+  "keywords": [
+    "sociology",
+    "survey",
+    "parser",
+    "NER"
+  ],
+  "author": "Zakharov Kyrylo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amice13/sociologyReportExtractor/issues"
+  },
+  "homepage": "https://github.com/Amice13/sociologyReportExtractor#readme"
+}
